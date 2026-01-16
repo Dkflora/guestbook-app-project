@@ -35,7 +35,7 @@ kind: Service
 metadata:
   name: redis-follower
   labels:
-    app: redis
+    app: redis1
     role: follower
     tier: backend
 spec:
