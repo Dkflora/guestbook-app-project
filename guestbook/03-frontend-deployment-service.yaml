@@ -34,7 +34,7 @@ kind: Service
 metadata:
   name: frontend
   labels:
-    app: guestbook
+    app: guestbookk
     tier: frontend
 spec:
   # if your cluster supports it, uncomment the following to automatically create
